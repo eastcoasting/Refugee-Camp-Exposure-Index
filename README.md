@@ -7,7 +7,7 @@ Michael Owen<sup>1, *</sup>, Andrew Kruczkiewicz<sup>2, +</sup>, Jamon Van Den H
 3 Affiliation, Department, City, Postcode, Country <br/>
 
 *m.owen@columbia.edu 
-+ these authors contributed equally to this work
+\+ these authors contributed equally to this work
 
 Abstract
 
