@@ -1,0 +1,18 @@
+index,country,camp_name,longitude,latitude,unhcr_id,note
+5,Ethiopia,Kule,34.29152951,8.275402703,235,Gambela region
+10,Ethiopia,Pugnido,34.25909953,7.645984031,235,Gambela region
+11,Ethiopia,Melkadida,41.72082819,4.519205931,800,Somali region
+17,Ethiopia,Nguenyyiel,34.24053729,8.295809043,235,Gambela region
+1,Kenya,Kakuma,34.83166342,3.744966881,191,
+2,Kenya,Hagadera,40.37106715,0.001313894,181,
+3,Kenya,Dagahaley,40.2901574,0.186054086,180,
+4,Kenya,Ifo,40.3151973,0.11604012,182,
+7,South Sudan,Yida,30.0860803,10.11305484,817,Unity state
+12,South Sudan,Pamir,30.35590412,9.909969469,817,Unity state
+13,South Sudan,Ajuong Thok,30.27976268,9.965489915,817,Unity state
+8,Tanzania,Nduta,30.84125515,-3.656156305,863,
+9,Tanzania,Mtendeli,30.88848332,-3.427341721,863,Using Nduta camp given proximity
+14,Tanzania,Nyarugusu,30.38945,-4.230328622,856,
+6,Uganda,Bidi Bidi,31.38299819,3.468532851,11097,Yumbe district
+15,Uganda,Palorinya,31.62783628,3.48611077,11098,Obongi district
+16,Uganda,Nyumanzi,31.94519833,3.467143689,319,Adjumani district
