@@ -1,6 +1,6 @@
 # Indexing Climatic and Environmental Exposure of Refugee Camps with a Case Study in East Africa
 
-Michael Owen<sup>1, *</sup>, Andrew Kruczkiewicz<sup>2, <sup>3, <sup>4, +</sup>, Jamon Van Den Hoek<sup>5, +</sup>
+Michael Owen<sup>1, *</sup>, Andrew Kruczkiewicz<sup>2, 3, 4, +</sup>, Jamon Van Den Hoek<sup>5, +</sup>
 
 1 Columbia University, Department of Earth and Environmental Sciences, New York, 10027, USA
 2 Columbia University, International Research Institute for Climate and Society, Climate School, New York, 10027, USA
