@@ -2,11 +2,11 @@
 
 Michael Owen<sup>1, *</sup>, Andrew Kruczkiewicz<sup>2, 3, 4, +</sup>, Jamon Van Den Hoek<sup>5, +</sup>
 
-1 Columbia University, Department of Earth and Environmental Sciences, New York, 10027, USA
-2 Columbia University, International Research Institute for Climate and Society, Climate School, New York, 10027, USA
-3 Red Cross Red Crescent, Climate Centre, The Hague, The Netherlands
-4 University of Twente, Faculty of Geo-information Science and Earth Observation, Enschede, The Netherlands
-5 Oregon State University, Geography Program, College of Earth, Ocean, and Atmospheric Sciences, Corvallis, 97331, USA
+1 Columbia University, Department of Earth and Environmental Sciences, New York, 10027, USA  
+2 Columbia University, International Research Institute for Climate and Society, Climate School, New York, 10027, USA  
+3 Red Cross Red Crescent, Climate Centre, The Hague, The Netherlands  
+4 University of Twente, Faculty of Geo-information Science and Earth Observation, Enschede, The Netherlands  
+5 Oregon State University, Geography Program, College of Earth, Ocean, and Atmospheric Sciences, Corvallis, 97331, USA  
 
 
 *m.owen@columbia.edu <br/>
